@@ -19,39 +19,39 @@
 * [12 27:07 Model Optimization and Series Conclusion](#12)
 
 
-## 01 30:38 Introduction to Text Analytics with R < a name="01"></a>
+## 01 30:38 Introduction to Text Analytics with R  <a name="01"></a>
 
 
-## 02 33:59 Text Analytics Fundamentals  < a name="02"></a>
+## 02 33:59 Text Analytics Fundamentals <a name="02"></a>
 
 
-## 03 31:49 Data Pipelines   < a name="03"></a>
+## 03 31:49 Data Pipelines <a name="03"></a>
 
 
-## 04 28:36 Building Our First Model  < a name="04"></a>
+## 04 28:36 Building Our First Model <a name="04"></a>
 
 
-## 05 33:26 TF-IDF    < a name="05"></a>
+## 05 33:26 TF-IDF <a name="05"></a>
 
 
-## 06 29:37 N-grams    < a name="06"></a>
+## 06 29:37 N-grams <a name="06"></a>
 
 
-## 07 37:32 VSM, LSA, & SVD   < a name="07"></a>
+## 07 37:32 VSM, LSA, & SVD <a name="07"></a>
 
 
-## 08 34:17 Singular Value Decomposition (SVD) with R < a name="08"></a>
+## 08 34:17 Singular Value Decomposition (SVD) with R  <a name="08"></a>
 
 
-## 09 25:01 Model Metrics   < a name="09"></a>
+## 09 25:01 Model Metrics <a name="09"></a>
 
 
-## 10 32:03 Cosine Similarity   < a name="10"></a>
+## 10 32:03 Cosine Similarity <a name="10"></a>
 
 
-## 11 27:14 Pre-processing our test data  < a name="11"></a>
+## 11 27:14 Pre-processing our test data <a name="11"></a>
 
 
-## 12 27:07 Model Optimization and Series Conclusion < a name="12"></a>
+## 12 27:07 Model Optimization and Series Conclusion  <a name="12"></a>
 
 
